@@ -47,7 +47,7 @@ Use this notebook to produce the figures and statistics for droplet and vacuole 
 
 ---
 
-### 3. `plot_trackmate.ipynb`
+### 3.tracking_movement/vacuole_plot
 
 Processing and plotting of droplet trajectories exported from TrackMate (ImageJ/Fiji).
 
