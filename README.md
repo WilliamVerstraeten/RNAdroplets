@@ -47,7 +47,7 @@ Use this notebook to produce the figures and statistics for droplet and vacuole 
 
 ---
 
-### 3.tracking_movement/vacuole_plot
+### 3. 'tracking_movement'
 
 Processing and plotting of droplet trajectories exported from TrackMate (ImageJ/Fiji).
 
@@ -60,5 +60,8 @@ Processing and plotting of droplet trajectories exported from TrackMate (ImageJ/
 - Plot:
   - MSD curves,
   - summary statistics (e.g. violin plots per condition and statistical tests).
+
+### 4. For code related to the theory and phase separation diagram please visit: "https://git.rz.uni-augsburg.de/jaiswapr/RNA_Nanostar"
+
 
 ---
