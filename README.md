@@ -6,7 +6,7 @@ The workflows include segmentation of RNA droplets, quantification of droplet an
 ---
 
 ## Contents
-
+### 0. The replotting file allows you to obtain the graphs as shown in the main text of the paper using the provided source data. 
 ### 1. `Droplets_detection.ipynb`
 
 Segmentation and feature extraction for RNA droplets and their internal holes.
