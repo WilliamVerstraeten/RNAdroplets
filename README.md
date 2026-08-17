@@ -61,7 +61,7 @@ Processing and plotting of droplet trajectories exported from TrackMate (ImageJ/
   - MSD curves,
   - summary statistics (e.g. violin plots per condition and statistical tests).
 
-### 4. For code related to the theory and phase separation diagram please visit: "https://git.rz.uni-augsburg.de/jaiswapr/RNA_Nanostar"
+### 4. For code related to the theory and phase separation diagram please visit: " https://github.com/Jpranay1/RNA-Nanostar-Droplet"
 
 
 ---
